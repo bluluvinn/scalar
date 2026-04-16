@@ -107,9 +107,9 @@
     "vite-plugin-banner": "^0.7.1",
     "vite-plugin-css-injected-by-js": "^3.4.0",
     "vitest": "catalog:*",
-    "@hono/node-server": "^1.11.0",
+    "@hono/node-server": "^1.19.13",
     "@playwright/test": "^1.49.1",
-    "hono": "^4.6.5",
+    "hono": "^4.12.14",
     "@scalar/core": "workspace:*"
   }
 }
