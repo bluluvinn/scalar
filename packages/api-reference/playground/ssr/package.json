@@ -14,8 +14,8 @@
   "dependencies": {
     "@scalar/api-reference": "workspace:*",
     "compression": "^1.8.0",
-    "hono": "^4.6.5",
-    "@hono/node-server": "^1.11.0",
+    "hono": "^4.12.16",
+    "@hono/node-server": "^1.19.13",
     "sirv": "^3.0.1",
     "vue": "catalog:*"
   },
