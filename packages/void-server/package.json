@@ -46,8 +46,8 @@
   ],
   "module": "dist/index.js",
   "dependencies": {
-    "@hono/node-server": "^1.11.0",
-    "hono": "^4.6.5",
+    "@hono/node-server": "^1.19.13",
+    "hono": "^4.12.18",
     "object-to-xml": "^2.0.0"
   },
   "devDependencies": {
