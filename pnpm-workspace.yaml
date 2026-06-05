@@ -50,9 +50,9 @@ catalogs:
     fuse.js: ^7.1.0
     microdiff: ^1.5.0
     nanoid: 5.1.5
-    next: ^15.3.3
+    next: ^15.5.18
     picomatch: 4.0.2
-    postcss: ^8.4.38
+    postcss: ^8.5.10
     prettier: 3.5.3
     react-dom: ^19.1.0
     react: ^19.1.0
@@ -63,7 +63,7 @@ catalogs:
     type-fest: 4.41.0
     vite-node: 3.2.4
     vite: 6.1.6
-    vitest: ^3.2.4
+    vitest: ^4.1.0
     vue: ^3.5.17
     yaml: 2.8.0
     zod: 3.24.1
