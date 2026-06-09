@@ -109,7 +109,7 @@
     "vitest": "catalog:*",
     "@hono/node-server": "^1.11.0",
     "@playwright/test": "^1.49.1",
-    "hono": "^4.6.5",
+    "hono": "^4.12.21",
     "@scalar/core": "workspace:*"
   }
 }
