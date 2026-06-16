@@ -228,7 +228,7 @@
     "nanoid": "catalog:*",
     "pretty-bytes": "^6.1.1",
     "pretty-ms": "^8.0.0",
-    "shell-quote": "^1.8.1",
+    "shell-quote": "^1.8.4",
     "type-fest": "catalog:*",
     "vue": "catalog:*",
     "vue-router": "^4.3.0",
